@@ -10,9 +10,9 @@ const API = "https://discord-web-api.glitch.me/discord/user/";
 
 const owners = [
     {
-        "id": "820360564219707392",
+        "id": "641587689564667914",
         "post": "Créateur du bot",
-        "GHURL": "https://github.com/Oreki-ASTRAL",
+        "GHURL": "https://github.com/Khima-bot",
         "InstaURL": "https://www.instagram.com/arizaki.xyz/",
         "YTURL": "https://www.youtube.com/channel/UCSyVjEAy93d48z0Q7ktw2PA/"
     }
